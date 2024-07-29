@@ -1,4 +1,4 @@
-package com.kekie6.colorfulazaleas.blocks;
+package net.kraftw.colorfulazaleas.blocks;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;

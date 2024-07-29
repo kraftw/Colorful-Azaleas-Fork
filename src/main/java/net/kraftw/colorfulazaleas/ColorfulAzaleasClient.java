@@ -1,6 +1,6 @@
-package com.kekie6.colorfulazaleas;
+package net.kraftw.colorfulazaleas;
 
-import com.kekie6.colorfulazaleas.registry.AzaleaBlocks;
+import net.kraftw.colorfulazaleas.registry.AzaleaBlocks;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
 import net.minecraft.client.renderer.RenderType;

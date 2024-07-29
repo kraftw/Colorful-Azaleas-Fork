@@ -1,10 +1,13 @@
-package com.kekie6.colorfulazaleas.registry;
+package net.kraftw.colorfulazaleas.registry;
 
-import com.kekie6.colorfulazaleas.*;
-import com.kekie6.colorfulazaleas.blocks.*;
+import net.kraftw.colorfulazaleas.*;
+import net.kraftw.colorfulazaleas.blocks.*;
 import net.fabricmc.fabric.api.loot.v2.*;
 import net.fabricmc.fabric.api.object.builder.v1.block.type.*;
 import net.fabricmc.fabric.api.registry.*;
+import net.kraftw.colorfulazaleas.ColorfulAzaleas;
+import net.kraftw.colorfulazaleas.blocks.ColorfulAzaleaBushBlock;
+import net.kraftw.colorfulazaleas.blocks.DroopingLeavesBlock;
 import net.minecraft.core.*;
 import net.minecraft.core.registries.*;
 import net.minecraft.resources.*;

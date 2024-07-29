@@ -1,8 +1,11 @@
-package com.kekie6.colorfulazaleas;
+package net.kraftw.colorfulazaleas;
 
-import com.kekie6.colorfulazaleas.decorators.*;
-import com.kekie6.colorfulazaleas.registry.*;
+import net.kraftw.colorfulazaleas.decorators.*;
+import net.kraftw.colorfulazaleas.registry.*;
 import net.fabricmc.api.*;
+import net.kraftw.colorfulazaleas.decorators.ColorfulTreeDecorator;
+import net.kraftw.colorfulazaleas.registry.AzaleaBlocks;
+import net.kraftw.colorfulazaleas.registry.ColorfulAzaleasItemGroups;
 import net.minecraft.core.*;
 import net.minecraft.core.registries.*;
 import net.minecraft.resources.*;

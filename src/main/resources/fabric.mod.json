@@ -2,25 +2,24 @@
   "schemaVersion": 1,
   "id": "colorfulazaleas",
   "version": "${version}",
-  "name": "Colorful Azaleas",
-  "description": "Adds more colorful Azalea trees to your world!",
+  "name": "Kraft's Colorful Azaleas Fork",
+  "description": "This is a mod is a fork of Terrarium's Colorful Azaleas to port it to 1.20.1!",
   "authors": [
-    "Kekie6"
+    "kraftw"
   ],
   "contact": {
-    "Discord": "https://discord.gg/NPjsPFEYbN",
-    "sources": "https://github.com/terrarium-earth/ColorfulAzaleas"
+    "sources": "https://github.com/kraftw/ColorfulAzaleasFork"
   },
   "accessWidener": "colorfulazaleas.accesswidener",
-  "license": "Modified-MIT-License",
+  "license": "MIT",
   "icon": "assets/colorfulazaleas/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.kekie6.colorfulazaleas.ColorfulAzaleas"
+      "net.kraftw.colorfulazaleas.ColorfulAzaleas"
     ],
     "client": [
-      "com.kekie6.colorfulazaleas.ColorfulAzaleasClient"
+      "net.kraftw.colorfulazaleas.ColorfulAzaleasClient"
     ]
   },
   "mixins": [],
