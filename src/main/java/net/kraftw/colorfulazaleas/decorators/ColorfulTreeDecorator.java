@@ -1,6 +1,6 @@
-package com.kekie6.colorfulazaleas.decorators;
+package net.kraftw.colorfulazaleas.decorators;
 
-import com.kekie6.colorfulazaleas.ColorfulAzaleas;
+import net.kraftw.colorfulazaleas.ColorfulAzaleas;
 import com.mojang.serialization.Codec;
 import com.mojang.serialization.codecs.RecordCodecBuilder;
 import it.unimi.dsi.fastutil.objects.ObjectArrayList;
